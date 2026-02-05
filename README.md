@@ -1,31 +1,53 @@
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="scss logo" />
-  
-  <br/>
-  <br/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose logo" />
+<div>
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Fares Shreen! 
+*Front End Developer | Full Stack Enthusiast*
+<br /> 
+
+<p align="left">
+  Motivated and detail-oriented Developer  with strong expertise in <b>Angular, TypeScript, and Tailwind</b>, along with growing experience in building scalable backend systems using <b>Node.js and NestJS</b>.
+</p>
+
+- 👀 I’m interested in **Web Application Development** & **UI/UX Solutions** [cite: 7, 19]
+- 🌱 I’m currently learning **Advanced Backend Architecture (Microservices)**
+- 💞️ I’m looking to collaborate on **Open Source Angular & NestJS Projects**
+- 📫 How to reach me **faresshreen138@gmail.com** [cite: 3]
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Fares-Shreen&label=Profile%20views&color=ff8449&style=for-the-badge&logo=star" alt="Fares-Shreen" style="padding-right:20;" />
+</p>
+<hr/>
+
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,nodejs,nestjs,mysql,sequelize,mongodb,git,github" />
+  </a>
+</p>
+
+
+<br/>
+<br/>
+
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<div align="center">
+<a href="https://github.com/Fares-Shreen/github-readme-stats-fast">
+  <img height=190 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Fares-Shreen&theme=cobalt&show_icons=true&count_private=true&v=1" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fares-Shreen&theme=cobalt&layout=compact&langs_count=8&card_width=320&v=1" />
+</a>
+
+
+</div>
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fares-Shreen/Fares-Shreen/output/github-contribution-grid-snake.svg">
+</p>
