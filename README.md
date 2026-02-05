@@ -1,53 +1,70 @@
-<div>
-  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Fares Shreen! 
-*Front End Developer | Full Stack Enthusiast*
-<br /> 
-
-<p align="left">
-  Motivated and detail-oriented Developer  with strong expertise in <b>Angular, TypeScript, and Tailwind</b>, along with growing experience in building scalable backend systems using <b>Node.js and NestJS</b>.
-</p>
-
-- 👀 I’m interested in **Web Application Development** & **UI/UX Solutions** [cite: 7, 19]
-- 🌱 I’m currently learning **Advanced Backend Architecture (Microservices)**
-- 💞️ I’m looking to collaborate on **Open Source Angular & NestJS Projects**
-- 📫 How to reach me **faresshreen138@gmail.com** [cite: 3]
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Fares-Shreen&label=Profile%20views&color=ff8449&style=for-the-badge&logo=star" alt="Fares-Shreen" style="padding-right:20;" />
-</p>
-<hr/>
-
-
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,nodejs,nestjs,mysql,sequelize,mongodb,git,github" />
-  </a>
+  <a href="https://gh-most-followed.pages.dev/egypt">
+    <img src="https://img.shields.io/badge/13ᵗʰ Most Followed User 🇪🇬-282830?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+  <a href="https://committers.top/egypt">
+    <img src="https://img.shields.io/badge/6ᵗʰ Most Active User 🇪🇬-282830?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
 </p>
 
-
-<br/>
-<br/>
-
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h1 align="center">Hi, I'm Ahmed Hemeda</h1>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
 <div align="center">
-<a href="https://github.com/Fares-Shreen/github-readme-stats-fast">
-  <img height=190 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Fares-Shreen&theme=cobalt&show_icons=true&count_private=true&v=1" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fares-Shreen&theme=cobalt&layout=compact&langs_count=8&card_width=320&v=1" />
-</a>
-
-
+  <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts" />
+  </a>
 </div>
-<br/>
-<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fares-Shreen/Fares-Shreen/output/github-contribution-grid-snake.svg">
+  <a href="#">
+    <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat&logo=googlechrome&logoColor=white" style="height:35px; object-fit:contain;"/></a>
 </p>
+  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/>
+</p>
+
+### 📤 Connect & Competitive Programming
+<p align="left">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+  <a href="#">
+    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+  <a href="#">
+    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a>
+  <a href="#">
+    <img src="https://images.seeklogo.com/logo-png/49/2/twitter-x-logo-png_seeklogo-492396.png" height="50"/></a> &nbsp;
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="50"/></a> &nbsp;
+  <a href="#">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/></a> &nbsp;
+  <a href="#">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a>
+</p>
+
+### 🛠️ Top Technical Skills & Tools
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
+</p>
+  
+<br>
+  
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="135"/>
+</p>
+  
+<img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+  
+<br>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="176"/> &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark" height="176"/>
+</p>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
