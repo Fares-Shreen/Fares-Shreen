@@ -27,7 +27,7 @@
 <p align="left">
   <a href="mailto:faresshreen138@gmail.com">
     <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50"/></a> &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/fares-shreen-871822371/">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
   </p>
 
