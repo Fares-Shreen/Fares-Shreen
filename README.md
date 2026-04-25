@@ -13,7 +13,8 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ui05_-mh0xLsILuW8E15SxrW6Qukyjqo/view?usp=sharing" target="_blank">
+  <a href="[https://drive.google.com/file/d/1ui05_-mh0xLsILuW8E15SxrW6Qukyjqo/view?usp=sharing](https://drive.google.com/file/d/1l1hx0EqNCKMIPTru_U5He2ZRN-36T-jj/view?usp=sharing)" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat&logo=googlechrome&logoColor=white" style="height:35px; object-fit:contain;"/></a>
